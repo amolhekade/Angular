@@ -1,0 +1,14 @@
+{
+  "name": "binnar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entryfirst",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binnar"
+  ],
+  "author": "",
+  "license": "ISC"
+}
